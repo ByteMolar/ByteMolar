@@ -29,6 +29,11 @@ Oral health impacts overall health. ByteMolar provides the tools to identify, ma
 1. **AI-Powered Image Recognition**
    Analyze dental X-rays and intraoral scans with unparalleled accuracy:
    - Detect cavities, fractures, and periodontal issues in real time.
+  <p align="center">
+  <img src="./assets/ByteMolar_analysis1.jpeg" alt="Analysis Example 1" width="45%">
+  <img src="./assets/ByteMolar_analysis2.jpeg" alt="Analysis Example 2" width="45%">
+</p>
+
 
 2. **Predictive Outcome Modeling**
    Leverage historical data to forecast treatment success and patient outcomes:
