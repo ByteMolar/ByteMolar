@@ -45,6 +45,8 @@ Oral health impacts overall health. ByteMolar provides the tools to identify, ma
 3. **Dynamic Patient Portal**
    A secure hub for patients to:
    - Access dental records, treatment plans, and appointment schedules.
+   <img src="./assets/ByteMolar_patient_port.jpeg" alt="Patient Portal Example" width="52%">
+
 
 4. **Clinic Dashboard & Reporting**
    Advanced tools for clinics:
