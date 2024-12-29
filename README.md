@@ -1,3 +1,6 @@
+![ByteMolar Logo](./assets/ByteMolar_logo.png)
+
+
 # ByteMolar: AI Dental Diagnostics Platform 🦷💡
 
 *"Revolutionizing oral healthcare with cutting-edge AI and advanced technology."*
