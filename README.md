@@ -51,10 +51,14 @@ Oral health impacts overall health. ByteMolar provides the tools to identify, ma
 4. **Clinic Dashboard & Reporting**
    Advanced tools for clinics:
    - Monitor operational metrics, manage appointments, and visualize patient trends.
+   <img src="./assets/ByteMolar_clinic_dash.jpeg" alt="Clinic Dashboard Example" width="50%">
+
 
 5. **Integration & APIs**
    Seamless compatibility with existing clinic management systems:
    - Enhance workflows without disruption.
+   <img src="./assets/ByteMolar_infosync.jpeg" alt="Information Synchronization Example" width="50%">
+
 
 ---
 
