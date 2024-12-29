@@ -38,6 +38,9 @@ Oral health impacts overall health. ByteMolar provides the tools to identify, ma
 2. **Predictive Outcome Modeling**
    Leverage historical data to forecast treatment success and patient outcomes:
    - Help patients make informed decisions with confidence.
+   <img src="./assets/ByteMolar_opp_prob1.jpeg" alt="Operation Probability Example" width="50%">
+
+
 
 3. **Dynamic Patient Portal**
    A secure hub for patients to:
