@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/images/ByteMolar_logo.png" alt="ByteMolar Logo" width="200">
+  <img src="./assets/images/ByteMolar_logo.png.png" alt="ByteMolar Logo" width="200">
 </p>
 
 # ByteMolar: AI Dental Diagnostics Platform 🦷💡
