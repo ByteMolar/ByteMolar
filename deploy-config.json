@@ -1,0 +1,5 @@
+{
+  "network": "devnet",
+  "programId": "YOUR_PROGRAM_ID",
+  "deploymentKeypair": "./keypair.json"
+}

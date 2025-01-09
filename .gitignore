@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+/target/
+
+# Security
+keypair.json
+*-keypair.json
+.env
+.env.local
+
+# Build files
+/dist/
+/build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+.DS_Store
